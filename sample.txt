@@ -1,0 +1,5 @@
+1. What is Git and explain?
+Ans: Git is a version control system used for tracking changes in computer f
+iles. It is generally used for source code management in software development. 
+Git is used to tracking changes in the source code. 
+The distributed version control tool is used for source code management.
